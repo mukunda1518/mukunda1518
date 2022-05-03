@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mukunda1518
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning about Analytics
+- 🌱 I’m currently learning about Backend and Frontend
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mukundapm1518@gmail.com
 
