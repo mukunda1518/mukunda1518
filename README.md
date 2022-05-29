@@ -1,6 +1,6 @@
 - 👋 Hi, I’m mukunda
 - 👀 I’m interested in problem solving
-- 🌱 I’m currently working on Django
+- 🌱 I’m currently working on Django and learning frontend
 - 📫 How to reach me mukundapm1518@gmail.com
 
 <!---
