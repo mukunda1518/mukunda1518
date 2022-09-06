@@ -1,6 +1,6 @@
 - 👋 Hi, I’m mukunda
 - 👀 I’m interested in problem solving
-- 🌱 I’m currently working on python | DSA
+- 🌱 I’m currently working on Python | DSA
 - 📫 How to reach me mukundapm1518@gmail.com
 
 <!---
